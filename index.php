@@ -50,7 +50,7 @@
       <button>Register</button>
     </form>
   </div>
-  <div class="cta"><center>Made by: <a href="https://code-projects.org/">GAHIGIRA Gislain</center></div>
+  <div class="cta"><center>Made by: GAHIGIRA Gislain</center></div>
 </div>
   <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 
